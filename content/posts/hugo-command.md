@@ -1,7 +1,7 @@
 ---
 title: "Hugo Command"
 date: 2022-05-23T13:19:29+07:00
-draft: true
+draft: false
 ---
 
 ### start hugo server
